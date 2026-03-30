@@ -52,7 +52,7 @@ OnlyFlags/
 ├── templates/
 │   ├── acces_denied.html
 │   ├── blog.html
-│   ├── blog_[user].html  # (Alex, Barry, Po, Shrek, ItsaSecret)
+│   ├── blog_[user].html  # (Alex, Barry, Po, Shrek, hidden)
 │   ├── home.html
 │   ├── login.html
 │   ├── robots.html
@@ -79,5 +79,5 @@ OnlyFlags/
 5. Go to the admin page and login to receive the key.
 
 
-## Hope you enjoy our challenge
-## Please dont sue us DreamWorks!!!
+> Hope you enjoy our challenge,
+please dont sue us DreamWorks
