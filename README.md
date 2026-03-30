@@ -77,3 +77,6 @@ OnlyFlags/
 4. Decryption: Decode from base64, XOR that output using the given key and finally use ROT13 to obtain the username and password.
 
 5. Go to the admin page and login to receive the key.
+
+
+## Hope you enjoy our challenge
